@@ -64,7 +64,7 @@ The project includes a wide range of exploratory and business-focused charts:
 
 ### 📊 Dashboard Preview
 
-![Dashboard](dashboard.pdf)
+![Dashboard](Dashboard.pdf)
 
 
 A visual summary of insights, combining key charts into one snapshot.  
